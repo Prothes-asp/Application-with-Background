@@ -1,0 +1,24 @@
+.bdybpc{
+background-image:url("background.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+}
+.cutting{
+width:50%;
+margin:0 auto;
+margin-top:5%;
+}
+.bld{
+font-weight:bold;
+}
+.Lasts{
+height:50px;
+white-space:pre;
+}
+.btn{
+height:30px;
+width:70px;
+font-weight:bold;
+border:2px solid black;
+border-radius:5px;
+}
